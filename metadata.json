@@ -1,0 +1,6 @@
+{
+  "name": "Clash Beat Lab",
+  "description": "Interactive music clash arena and beat laboratory with head-to-head song battles, multi-track step sequencer, live drum pads, trivia blitz, and bracket tournaments.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
